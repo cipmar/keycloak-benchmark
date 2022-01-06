@@ -90,9 +90,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:git://github.com/keycloak/keycloak-benchmark.git</connection>
-    <developerConnection>scm:git:git@github.com:keycloak/keycloak-benchmark.git</developerConnection>
-    <url>https://github.com/keycloak/keycloak-benchmark/tree/main/</url>
+    <connection>scm:git:git://github.com/cipmar/keycloak-benchmark.git</connection>
+    <developerConnection>scm:git:git@github.com:cipmar/keycloak-benchmark.git</developerConnection>
+    <url>https://github.com/cipmar/keycloak-benchmark/tree/main/</url>
     <tag>HEAD</tag>
   </scm>
 
